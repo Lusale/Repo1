@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is A249-1B24
-
- Directory of C:\DBA\Git\Projects
-
-22/10/2019  11:48    <DIR>          .
-22/10/2019  11:48    <DIR>          ..
-22/10/2019  11:48                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  29,273,952,256 bytes free
+Lusale Silwamba
